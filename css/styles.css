@@ -1,0 +1,27 @@
+body {
+  background-image: linear-gradient(to right top, #10ff46, #f1db00, #ffae62, #ffa0c0, #fab5fa);
+}
+
+.columb1 {
+  width: 30%;
+  float: left;
+}
+
+.columb2 {
+  width: 30%;
+  float: center;
+}
+
+.columb3 {
+  width: 30%;
+  float: right;
+}
+.container{
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+/* .container{
+  max-height: 300px;
+  max-width: 300px;
+} */
