@@ -4,24 +4,34 @@ body {
 
 .columb1 {
   width: 30%;
-  float: left;
+  float: left; 
+  background-color: #fab5fa;
+  height: 500px;
+  margin: 15px;
+  border: 5px solid black;
 }
-
-.columb2 {
+img{
+  width: 60%;
+  margin-inline-start: 20%;
+}
+/* .columb2 {
   width: 30%;
-  float: center;
+  float: ;
+  background-color:green;
+
 }
 
 .columb3 {
   width: 30%;
   float: right;
+  background-color: #ffae62;
 }
 .container{
   width: 100%;
   height: auto;
-  vertical-align: middle;
-}
+  vertical-align: middle; */
+} */
 /* .container{
   max-height: 300px;
   max-width: 300px;
-} */
+} 
